@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstAppRaspberryPi", "FirstAppRaspberryPi\FirstAppRaspberryPi.csproj", "{8EFD8A04-CD6A-48F5-BBF4-4490EE25A0C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeAutomation.Models", "HomeAutomation.Models\HomeAutomation.Models.csproj", "{EA39C982-258A-49F8-A2DA-2DBCAA3991AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeAutomation.BlazorServerWeb", "HomeAutomation.BlazorServerWeb\HomeAutomation.BlazorServerWeb.csproj", "{26507F01-55AD-479B-AE63-094E77CAC10A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeAutomation.Api", "HomeAutomation.Api\HomeAutomation.Api.csproj", "{7C965BFA-4A71-4875-90F4-1F10A00D4F4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeAutomation.DataAccess", "HomeAutomation.DataAccess\HomeAutomation.DataAccess.csproj", "{2B92C5C7-42A6-4897-ACA7-AE798C06B029}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeAutomation.BusinessLogic", "HomeAutomation.BusinessLogic\HomeAutomation.BusinessLogic.csproj", "{B8DADCBE-F8BB-4A16-ABC3-9C13F0BAAB9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EFD8A04-CD6A-48F5-BBF4-4490EE25A0C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EFD8A04-CD6A-48F5-BBF4-4490EE25A0C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EFD8A04-CD6A-48F5-BBF4-4490EE25A0C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EFD8A04-CD6A-48F5-BBF4-4490EE25A0C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA39C982-258A-49F8-A2DA-2DBCAA3991AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA39C982-258A-49F8-A2DA-2DBCAA3991AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA39C982-258A-49F8-A2DA-2DBCAA3991AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA39C982-258A-49F8-A2DA-2DBCAA3991AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26507F01-55AD-479B-AE63-094E77CAC10A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26507F01-55AD-479B-AE63-094E77CAC10A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26507F01-55AD-479B-AE63-094E77CAC10A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26507F01-55AD-479B-AE63-094E77CAC10A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C965BFA-4A71-4875-90F4-1F10A00D4F4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C965BFA-4A71-4875-90F4-1F10A00D4F4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C965BFA-4A71-4875-90F4-1F10A00D4F4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C965BFA-4A71-4875-90F4-1F10A00D4F4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B92C5C7-42A6-4897-ACA7-AE798C06B029}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B92C5C7-42A6-4897-ACA7-AE798C06B029}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B92C5C7-42A6-4897-ACA7-AE798C06B029}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B92C5C7-42A6-4897-ACA7-AE798C06B029}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8DADCBE-F8BB-4A16-ABC3-9C13F0BAAB9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8DADCBE-F8BB-4A16-ABC3-9C13F0BAAB9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8DADCBE-F8BB-4A16-ABC3-9C13F0BAAB9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8DADCBE-F8BB-4A16-ABC3-9C13F0BAAB9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DEE5D9F-1BA4-420D-BF87-3A29091991C0}
+	EndGlobalSection
+EndGlobal
